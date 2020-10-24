@@ -7,7 +7,7 @@
   <groupId>com.aefonix.nominecarthopper</groupId>
   <artifactId>NoMinecartHopper</artifactId>
   <version>1.0.0</version>
-  <name>NoStrengthPotions</name>
+  <name>NoMinecartHopper</name>
   <url>https://github.com/jacobbearden/NoMinecartHopper</url>
   <description>Plugin to disable crafting minecart hoppers in Minecraft.</description>
 
